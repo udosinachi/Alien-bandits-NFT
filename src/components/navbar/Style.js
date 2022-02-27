@@ -3,6 +3,9 @@ import styled from 'styled-components'
 export const Nav = styled.div`
   background: black;
   opacity: 0.9;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
   .bar {
     /* border: 3px solid red; */
     background: black;
