@@ -6,12 +6,12 @@ const Story = () => {
     <div>
       <Tell>
         <div className='story-div'>
-          <div>
-            <h3>150 Light Years Away</h3>
+          <div className='head'>
+            <h3>150 Light-Years Away</h3>
             <h2>Our Background Story</h2>
           </div>
 
-          <div>
+          <div className='head2'>
             <p>
               150 light-years away, in an experimental planet created by Elun
               Mosk [sic] called Hazron, a magnificent specie of specially bred
