@@ -12,7 +12,7 @@ export const Slid = styled.div`
   -moz-user-select: none;
   -ms-user-select: none;
   .slid-div {
-    border: 3px solid blue;
+    /* border: 3px solid blue; */
     /* margin: 10px 0; */
     overflow: hidden;
 
