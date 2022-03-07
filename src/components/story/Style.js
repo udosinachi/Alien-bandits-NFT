@@ -2,6 +2,7 @@ import styled from 'styled-components'
 
 export const Tell = styled.div`
   /* border: 3px solid green; */
+  margin-bottom: 150px;
   .story-div {
     /* border: 3px solid blue; */
     width: 85%;
